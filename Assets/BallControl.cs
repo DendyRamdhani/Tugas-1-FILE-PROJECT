@@ -8,8 +8,6 @@ public class BallControl : MonoBehaviour
     private Rigidbody2D rigidBody2D;
 
     // Besarnya gaya awal yang diberikan untuk mendorong bola
-    public float xInitialForce;
-    public float yInitialForce;
     float radius;
     public float speed;
 
